@@ -16,11 +16,11 @@ This is a very small and simple prototype made in Unity, attempting to replicate
 - From September 6th 2022 to September 23rd 2022 [17 days period]
 
 > What is "Beyond Prophecy" (company name in the project setting and on various GUI menus)?
-- This is simply the name of my organization on Unity Gaming Services, and does not represent any actual company whatsoever.
+- This is simply the name of my organization on Unity Gaming Services, and does not represent any actual company whatsoever
 
 ## Credits
 - [EpsilonsQc](https://github.com/EpsilonsQc) - developed in solo by me
-- All the assets (textures, sounds, mesh, etc.) were found on the internet (either from the Asset Store or from other sources).
+- All the assets (textures, sounds, mesh, etc.) were found on the internet (either from the Asset Store or from other sources)
 
 ## Legal
 The source code in this repository is for non-commercial use only. If you use the source code you may not charge others for access to it or any derivative work thereof.
