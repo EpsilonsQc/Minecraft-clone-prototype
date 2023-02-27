@@ -1,4 +1,4 @@
-<h1 align="center">Minecraft-clone-prototype</h1>
+<h1 align="center">Minecraft clone prototype</h1>
 <p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221444088-35ff8392-9b13-4c9b-98cc-d69afe04e2a1.png"></p>
 <p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221443951-353ad878-f39b-4e2f-ac88-0c3487dc03ef.png"></p>
 
