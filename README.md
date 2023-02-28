@@ -5,7 +5,7 @@
 ---
 
 ## Introduction
-This is a prototype made in Unity, attempting to replicate "Minecraft" and developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is my final project for the "Use of a video game engine 1" course (session 3 of 5).
+This is a prototype made in Unity, attempting to replicate "Minecraft". It was developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is my final project for the "Use of a video game engine 1" course (session 3 of 5).
 
 ## F.A.Q.
 
